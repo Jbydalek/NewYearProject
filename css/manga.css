@@ -2313,7 +2313,7 @@ input, select, textarea {
 	             height: 100%;
 	         }
 	         .center-fit {
-	             max-width: 100%;
+	             max-width: 75%;
 	         }
 
 
