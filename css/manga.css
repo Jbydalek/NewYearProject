@@ -2297,23 +2297,8 @@ input, select, textarea {
 	}
 
 	 img {
-		style="max-width: 100%; min-height: auto;"
-		}
-
-		.image.left, .image.right {
-			max-width: 40%;
-		}
-
-		* {
-	             margin: 0;
-	             padding: 0;
-	         }
-	         .imgbox {
-	             display: block;
-	             height: 100%;
-	         }
-	         .center-fit {
-	             max-width: 75%;
+		
+	             max-width: 100%;
 	         }
 
 
