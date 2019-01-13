@@ -2297,7 +2297,7 @@ input, select, textarea {
 	}
 
 	 img {
-		 style="max-width: 100%; min-height: 1031px;" 
+		  max-width: 100%; min-height: 1031px;height:auto;
 		}
 
 		.image.left, .image.right {
