@@ -2298,7 +2298,7 @@ input, select, textarea {
 
 	 img {
 		
-	             max-width: 100%;
+	              max-width: 100%; min-height: 1031px;height:auto;
 	         }
 
 
